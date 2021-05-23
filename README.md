@@ -1,4 +1,4 @@
-# Language Detector Using Python
+# *Language Detector Using Python*
 
 This code can take multiple line input and detects the language of each line and displays the result in a tabular form.
 
